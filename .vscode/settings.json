@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2b44665f-3a65-436b-9640-8e182860189b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/meetus-app",
+    "appService.deploySubpath": "__sapper__/build"
+}
