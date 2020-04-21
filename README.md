@@ -7,16 +7,9 @@
 Just a simple small meetups app powered by [Svelte](https://svelte.dev/) and [Sapper](https://sapper.svelte.dev).
 
 
+## Get started
 
-**Table of Contents**
-
-
-[TOC]
-
-
-##Get started
-
-###Install
+### Install
 
 ```shell
 npm install
@@ -25,7 +18,7 @@ or just
 ```shell
 yarn
 ```
-###Watch
+### Watch
 ```shell
 npm run dev
 ```
@@ -34,5 +27,5 @@ or just
 yarn dev
 ```
 
-##Demo
+## Demo
 You can have a look at demo [here](https://meetus-app-pi.now.sh/)
